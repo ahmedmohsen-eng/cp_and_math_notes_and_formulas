@@ -1,4 +1,18 @@
 /*
+    
+    Relation :
+    x⊕y is equal to the difference between x OR y and x AND y , where OR and AND denote bitwise OR and bitwise AND, respectively.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
     Identity:
         u + v = (u ^ v) + 2 * (u & v)
 
